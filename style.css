@@ -1,0 +1,85 @@
+.container {
+    background-color: rgb(red, green, blue);
+    width:400px;
+    height:500px;
+    border: 6px solid green;
+    margin: auto;
+}
+.reg{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    }
+.text {
+    padding: 10px;
+    }
+.text-input {
+    margin-bottom: 10px;
+    width:150px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    }
+.mail{
+    padding: 10px;
+    }
+    .mail-input {
+        margin-bottom: 10px;
+        margin-top: 10px;
+        width:150px;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+    .pass{
+        padding: 10px;
+        }
+    .password-input {
+            margin-bottom: 10px;
+            margin-top: 10px;
+            width:150px;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        .com-pass{
+            padding: 10px;
+            }
+        .confirm-password {
+                margin-bottom: 10px;
+                margin-top: 10px;
+                width:180px;
+                border-radius: 5px;
+                box-sizing: border-box;
+            }
+
+            .dob {
+                padding: 10px;
+            }
+            .date-input {
+                margin-bottom: 10px;
+                width:150px;
+                border-radius: 5px;
+                box-sizing: border-box;
+            }
+            .gender{
+                padding: 10px;
+            }
+            .country {
+                padding: 10px;
+            }
+            .country-input{
+                margin-top: 10px;
+                border-radius: 5px;
+                box-sizing: border-box;
+            }
+            .trems {
+                padding: 10px;
+                margin-top: 10px;
+            }
+            .btn{
+                border-radius: 5px;
+                width: 100px;
+                margin-top:10px;
+                margin-left:100px;
+                box-sizing: border-box;
+                background-color: red;
+                color: white;
+            }
